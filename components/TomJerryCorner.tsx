@@ -22,7 +22,7 @@ const SIBLING_BANTERS = [
   {
     title: 'The Mobile Phone Addict Alert',
     situation: 'During Sindhu Bhavan drive & shopping trip',
-    quote: '“Yes, talk to him, but please don’t ignore the physical human sitting right in front of you! 📵 It can become a big problem, Spidey!”',
+    quote: '“Yes, talk to him, but please don’t ignore the physical human sitting right in front of you! 📵 It can become a big problem, Spidyy!”',
     resolution: 'Riddhi: *Continues looking at phone screen smiling*',
     mood: 'Physical Human vs Smartphone Screen',
   },
@@ -190,7 +190,7 @@ export default function TomJerryCorner() {
             <div className="mt-6 pt-4 border-t border-amber-900/10 flex items-center justify-between text-xs text-warmbrown/50 font-sans">
               <span>Dynamic Tag: {current.mood}</span>
               <span className="font-handwriting text-base text-terracotta">
-                #SpideyAndSamarth
+                #SpidyyAndSamarth
               </span>
             </div>
           </div>

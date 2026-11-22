@@ -137,7 +137,7 @@ export default function EndingSection({ onScrollToTop, onOpenPhoto }: EndingSect
             Forever your irritating friend,
           </p>
           <p className="font-serif text-2xl sm:text-3xl font-bold text-terracotta">
-            Samarth <span className="font-serif font-normal italic text-warmbrown/70 text-xl sm:text-2xl">(Spidey)</span>
+            Samarth <span className="font-serif font-normal italic text-warmbrown/70 text-xl sm:text-2xl">(Spidyy)</span>
           </p>
         </motion.div>
 

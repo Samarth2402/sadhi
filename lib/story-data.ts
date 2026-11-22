@@ -60,7 +60,7 @@ export const ALL_PHOTOS: Record<string, PhotoItem> = {
   riddhi_childhood: {
     id: 'riddhi_childhood',
     filename: 'riddhi_childhood.png',
-    title: 'Baby Spidey (Gandaaa Aaalluuu)',
+    title: 'Baby Spidyy (Gandaaa Aaalluuu)',
     alt: 'Riddhi\'s adorable childhood baby photo displayed on a laptop screen at the office desk',
     orientation: 'portrait',
     caption: 'Childhood memory on the office laptop — Baby Riddhi laughing with wide-eyed joy.',
@@ -234,7 +234,7 @@ export const STORY_CHAPTERS: StoryChapter[] = [
       'A true all-in-one: mother figure, fierce sister, and closest confidante',
       'Getting genuinely scolded whenever Samarth skips self-care or overthinks',
       'Samarth’s mom actively supporting and reminding him to buy gifts for Riddhi',
-      'The childhood photo discovery on the laptop keyboard: the original baby Spidey!',
+      'The childhood photo discovery on the laptop keyboard: the original baby Spidyy!',
     ],
     scrapbookNotes: [
       {
@@ -253,7 +253,7 @@ export const STORY_CHAPTERS: StoryChapter[] = [
     photos: [ALL_PHOTOS.riddhi_childhood],
     keepsake: {
       id: 'keepsake-childhood',
-      name: 'Baby Spidey Laptop Memory',
+      name: 'Baby Spidyy Laptop Memory',
       iconName: 'Smile',
       emoji: '👶',
       storyContext: 'Discovered during an office conversation, showing Riddhi\'s joyful baby photo.',
@@ -285,7 +285,7 @@ export const STORY_CHAPTERS: StoryChapter[] = [
     ],
     scrapbookNotes: [
       {
-        text: '“Sindhu Bhavan night drive + shopping rescue so Spidey wouldn’t feel like a third wheel. Mission accomplished! 🚗🛍️”',
+        text: '“Sindhu Bhavan night drive + shopping rescue so Spidyy wouldn’t feel like a third wheel. Mission accomplished! 🚗🛍️”',
         author: 'Samarth',
         tapeColor: 'mutedblue',
         rotation: '-rotate-2',
@@ -305,7 +305,7 @@ export const STORY_CHAPTERS: StoryChapter[] = [
       emoji: '🚗',
       storyContext: 'Cruising through Sindhu Bhavan with music, streetlights, and late-night city breeze.',
       details: 'Memories of stepping out of routine and sharing laughter under city streetlights.',
-      quote: 'Put the phone down for two minutes and look at the road, Spidey!',
+      quote: 'Put the phone down for two minutes and look at the road, Spidyy!',
       color: 'bg-blue-50 text-blue-900 border-blue-200',
     },
   },
@@ -534,7 +534,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     year: 'Chapter 04',
     period: 'The Bond',
     title: 'The All-in-One Best Friend',
-    description: 'Motherly scoldings for skipping meals, sisterly punch, and baby Spidey discovered on the laptop screen.',
+    description: 'Motherly scoldings for skipping meals, sisterly punch, and baby Spidyy discovered on the laptop screen.',
     icon: 'Heart',
     tag: 'Family',
   },

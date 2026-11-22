@@ -15,7 +15,7 @@ export default function LetterSection() {
             <span>Handwritten Words</span>
           </div>
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold text-warmbrown-dark">
-            A Letter to My Spidey
+            A Letter to My Spidyy
           </h2>
           <p className="font-serif italic text-lg sm:text-xl text-warmbrown/75 mt-1">
             From the desk next to yours, with all the gratitude in the world.
@@ -29,14 +29,14 @@ export default function LetterSection() {
 
           {/* Letter Date & Salutation */}
           <div className="flex justify-between items-center text-xs font-sans text-warmbrown/60 border-b border-amber-900/10 pb-4 mb-8">
-            <span className="font-serif italic text-base text-warmbrown">To: Riddhi Shah (Spidey / Gandaaa Aaalluuu)</span>
+            <span className="font-serif italic text-base text-warmbrown">To: Riddhi Shah (Spidyy / Gandaaa Aaalluuu)</span>
             <span>Workstation Beside Yours</span>
           </div>
 
           {/* Letter Body in Beautiful Typography */}
           <div className="space-y-6 font-serif text-lg sm:text-xl text-warmbrown-dark leading-relaxed">
             <p>
-              Dear Spidey,
+              Dear Spidyy,
             </p>
 
             <p>
